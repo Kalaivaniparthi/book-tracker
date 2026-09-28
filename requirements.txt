@@ -5,4 +5,5 @@ python-dotenv
 supabase
 requests
 beautifulsoup4
-anthropic
+openai
+
